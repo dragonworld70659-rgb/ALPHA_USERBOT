@@ -18,7 +18,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ / ʀᴇɴᴅᴇʀ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMPURVI/ALPHA_USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=>GitHub.com/dragonworld70659-rgb/Alpha_UserBot <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -40,7 +40,7 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/PURVI_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
@@ -48,5 +48,5 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE SONA MUSIC™]() ғᴏʀ [𝖳HE PURVI MUSIC™]
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE SONA MUSIC™]() 
 - https://github.com/dragonworld70659-rgb/ShrutiMusic </b>
