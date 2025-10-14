@@ -1,1 +1,1 @@
-worker: python3 -m SPECTOR 
+worker: python3 -m RAUSHAN
