@@ -1,6 +1,6 @@
 from RAUSHAN.database import cli
 
-collection = cli["RAUSHAN"]["rraid"]
+collection = cli["SPECTOR"]["rraid"]
 
 
 async def rraid_user(chat):
