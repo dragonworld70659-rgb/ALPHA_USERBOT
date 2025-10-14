@@ -1,5 +1,5 @@
-from RAUSHAN import app, API_ID, API_HASH
-from config import ALIVE_PIC
+from SPECTOR import app, API_ID, API_HASH
+from config import ALIVE_PIC 'https://files.catbox.moe/4b14yr.jpg'
 from pyrogram import filters
 import os
 import re
